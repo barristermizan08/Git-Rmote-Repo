@@ -1,0 +1,16 @@
+<Suite name ="RegrationTest"
+
+<test  name = "uiTest"> </test>
+
+<class>
+</class>
+
+
+
+
+<method>
+<include name = "RegrationTest"></include>
+
+
+
+</method>

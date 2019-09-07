@@ -1,0 +1,8 @@
+pwd          present work directory
+ls      list
+cd      change directory
+mdir     create folder
+touch       create a file
+vl         editor
+cat       to view the file
+grep     to get string valuennfrom a field
